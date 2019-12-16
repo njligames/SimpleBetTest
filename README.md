@@ -25,3 +25,11 @@ for the team and pitchers who pitched in the game.
 * Internet Connection
 * Mac with Flutter installed.
 
+### Extras
+
+The bash shell `bin/process_icon_images.sh` will download the baseball 
+logo's, make them all use the png format, resize and convert them to gray scale.
+The teams that are available are based on the team names
+and league names the MLB api lists using the `https://statsapi.mlb.com/api/v1/teams` endpoint.
+
+
