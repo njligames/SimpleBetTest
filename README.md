@@ -10,6 +10,8 @@ samples, guidance on mobile development, and a full API reference.
 
 ## How to run
 
+I implemented the test using iPhone 11 Pro Max.
+
 The first screen is a calendar, which allows you to choose a day which games could have
 occured.
 
@@ -22,3 +24,4 @@ for the team and pitchers who pitched in the game.
 ### Requirments
 * Internet Connection
 * Mac with Flutter installed.
+
