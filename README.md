@@ -1,17 +1,24 @@
-# simplebet_flutter_app
+# SimpleBetTest
 
-A new Flutter application.
+This project solves the SimpleBet test requirements, in Flutter.
 
 ## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
 
 For help getting started with Flutter, view our
 [online documentation](https://flutter.dev/docs), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
-# SimpleBetTest
+
+## How to run
+
+The first screen is a calendar, which allows you to choose a day which games could have
+occured.
+
+Once you choose a day, the next screen will give you a list of games that occured on that date.
+Select a game and it will bring you to the third screen.
+
+The third screen will show the summary, linescore and statistcs for the hitters that were at bat
+for the team and pitchers who pitched in the game.
+
+### Requirments
+* Internet Connection
+* Mac with Flutter installed.
